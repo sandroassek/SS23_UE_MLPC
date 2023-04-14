@@ -1,0 +1,10 @@
+
+*.npy
+Untitled.ipynb
+Untitled.ipynb
+.ipynb_checkpoints/sandro-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+trainset_python/python/class_names.txt
+trainset_python/python/feature_names.txt
+.ipynb_checkpoints/sandro_v2-checkpoint.ipynb
+.ipynb_checkpoints/Untitled2-checkpoint.ipynb
